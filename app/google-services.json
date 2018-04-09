@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "138142055423",
+    "firebase_url": "https://time-anti-fraud.firebaseio.com",
+    "project_id": "time-anti-fraud",
+    "storage_bucket": "time-anti-fraud.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138142055423:android:0f89f71a16932c3b",
+        "android_client_info": {
+          "package_name": "com.rodrigolmti.time_anti_fraud"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138142055423-nrvbaa0fh8lbv8ukt0rrjcqu1j39huf4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1_vJYVuXR85IWcgVyoFn4gmVPglA8TXE"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
